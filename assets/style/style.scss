@@ -1,0 +1,14 @@
+@import"assets/style/reset.scss";
+
+$title-font: "Kalam", cursive;
+$primary-font: "Raleway", sans-serif;
+h1, h2{
+    font-family: $title-font;
+}
+p{
+    font-family: $primary-font;
+}
+
+img{
+    width: 1000px;
+}
