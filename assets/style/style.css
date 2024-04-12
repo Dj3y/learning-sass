@@ -6,6 +6,17 @@ p {
   font-family: "Raleway", sans-serif;
 }
 
+body {
+  background-color: rgb(240, 240, 240);
+}
+
+main {
+  background-color: #FFF;
+  width: 90%;
+  margin: 0 auto;
+  box-shadow: 5px 5px 5px rgb(36, 36, 36);
+}
+
 img {
   width: 1000px;
 }/*# sourceMappingURL=style.css.map */
